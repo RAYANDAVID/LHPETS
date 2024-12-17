@@ -1,0 +1,6 @@
+C:\Users\rayan\OneDrive\Documentos\C-SHARP\SQL Server\obj\Debug\net6.0\SQL Server.csproj.AssemblyReference.cache
+C:\Users\rayan\OneDrive\Documentos\C-SHARP\SQL Server\obj\Debug\net6.0\SQL Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\OneDrive\Documentos\C-SHARP\SQL Server\obj\Debug\net6.0\SQL Server.AssemblyInfoInputs.cache
+C:\Users\rayan\OneDrive\Documentos\C-SHARP\SQL Server\obj\Debug\net6.0\SQL Server.AssemblyInfo.cs
+C:\Users\rayan\OneDrive\Documentos\C-SHARP\SQL Server\obj\Debug\net6.0\SQL Server.csproj.CoreCompileInputs.cache
+C:\Users\rayan\OneDrive\Documentos\C-SHARP\SQL Server\obj\Debug\net6.0\SQL Server.MvcApplicationPartsAssemblyInfo.cache
